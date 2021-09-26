@@ -18,3 +18,5 @@ Variables: average discount for each sale order, total revenue that each sale or
 ![alt text](https://github.com/cyl7621/Customer-Clustering/blob/main/K-MeanClustering_SalesOrder.PNG)
 Based on the analysis, k=5 is the best. Sales order get to divided into 5 groups.
 
+Linear Regression results:
+
