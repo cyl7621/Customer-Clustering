@@ -1,4 +1,4 @@
-# Outlier Sales Order & End Customers Detection
+# Sales Order & End Customers Outlier Detection
 This project aims to use past sales transaction data to identify
   -  which sales order is more likely to have an abnormal discount 
   -  which end customer is more likely to receive an abnormal discount (abnormal high discount)
