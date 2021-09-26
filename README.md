@@ -19,4 +19,6 @@ Variables: average discount for each sale order, total revenue that each sale or
 Based on the analysis, k=5 is the best. Sales order get to divided into 5 groups.
 
 Linear Regression results:
+The regression model for end customers suggests for any end customers who have average discount per sales order above the upper bound red line are more likely to receive high discount in general. These end customers are worth to keey an eye on them to monitor the transactions. 
+![alt text](https://github.com/cyl7621/Discount-Outliers-Detection-Unsupervised-/blob/main/LinearRegression_EndCustomerOutliers.PNG)
 
